@@ -1,3 +1,5 @@
+엠버 너무 그지 같네...
+인생 처음으로 ToDoList 3일 걸렸네요. 내가 실력이 없는건가... ㅠㅠ
 # todomvc
 
 This README outlines the details of collaborating on this Ember application.
